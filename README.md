@@ -18,7 +18,7 @@
 - Fork this [repo](https://github.com/SrishtiSK01/LetsStartEasy)
 
 - Clone it using command:
-<pre>$ git clone paset_the_copied_url.</pre>
+<pre>$ git clone paste_the_copied_url.</pre>
 
 - Open folder "LetsStartEasy"
 <pre>$ cd LetsStartEasy</pre>
