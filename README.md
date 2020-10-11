@@ -46,7 +46,7 @@
 - Write the code inside the program.c file
 
 - Add file :
-<pre> $gti add -A</pre>
+<pre> $git add -A</pre>
 
 -Commit file :
 <pre>$ git commit -m "comment"</pre>
