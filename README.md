@@ -1,8 +1,9 @@
 <h1 align ="center">Easy Start</h1>
 
-## Here is a collection of basic programs in C#, C and Python :page_with_curl:
+<h1> Here is a collection of basic programs in C#, C and Python :page_with_curl: </h1>
 <br/>
-## :warning: Rules to follow before you contribute
+<h1 align="center"> :warning: Rules to follow before you contribute</h1>
+<br/>
 - Make sure you are not adding a program that already exists.
 - Add a readme.md file and explain the question along with sample Input and Outout for each program.
 - Be polite and have fun contributing :smile: :blush:
