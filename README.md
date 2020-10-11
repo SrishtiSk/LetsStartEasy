@@ -1,16 +1,19 @@
 <h1 align ="center">Easy Start</h1>
 
-<h1> Here is a collection of basic programs in C#, C and Python :page_with_curl: </h1>
+<h2> Here is a collection of basic programs in C#, C and Python :page_with_curl: </h2>
 <br/>
-<h1 align="center"> :warning: Rules to follow before you contribute</h1>
+<h3 align="center"> :warning: Rules to follow before you contribute</h3>
 <br/>
+
 - Make sure you are not adding a program that already exists.
+
 - Add a readme.md file and explain the question along with sample Input and Outout for each program.
+
 - Be polite and have fun contributing :smile: :blush:
 <br/>
 
 <a name="contibute">
-# How to Contribute :worried:
+    <h3 align="center"> How to Contribute :worried: :nerd_face: </h3>
     
 - Fork this [repo](https://github.com/SrishtiSK01/LetsStartEasy)
 
@@ -53,4 +56,8 @@
 <pre> $ git push origin -u 'branch_name'</pre>
     eg: git push origin -u hacktobrefest
     
-- The given link should be copied and pasted inn the web browser or go to your repo in the web browser
+- The given link should be copied and pasted in the web browser or go to your repo in the web browser
+
+- Create a pull request
+
+<h2>Yayy! :boom::collision: You have Done great. </h2>
