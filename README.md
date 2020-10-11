@@ -1,6 +1,6 @@
 <h1 align ="center">Easy Start</h1>
 
-<h2> Here is a collection of basic programs in C#, C and Python :page_with_curl: </h2>
+<h2> Here is a collection of basic programs in C#, C, C++ and Python :page_with_curl: </h2>
 <br/>
 <h3 align="center"> :warning: Rules to follow before you contribute</h3>
 <br/>
